@@ -16,6 +16,7 @@ function NavBar(props) {
         top: 0,
         left: 0,
         right: 0,
+        zIndex: 999,
       }}
     >
       <img src={Logo} alt="Logo" style={{ height: "32px" }} />

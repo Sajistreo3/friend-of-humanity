@@ -6,12 +6,10 @@ function Card({ imageSrc, name, description }) {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const handleImageClick = () => {
-    console.log('Clicked on image');
     setIsModalOpen(true);
   };
 
   const handleCloseModal = () => {
-    console.log('Clicked on close button');
     setIsModalOpen(false);
   };
 

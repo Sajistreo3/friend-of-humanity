@@ -23,7 +23,7 @@ function Home(props) {
         <Profile
           name="Mohammad Ali"
           bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-          image="https://upload.wikimedia.org/wikipedia/commons/f/f1/Andrew_Tate_on_%27Anything_Goes_With_James_English%27_in_2021.jpg"
+          image="https://placehold.co/400x500"
         />
       </div>
       <div className="card-section">

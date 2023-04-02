@@ -22,7 +22,7 @@ function Home(props) {
       <div className="profile-section">
         <Profile
           name="Mohammad Ali"
-          bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          bio="Chief Advisor and Executif President of African Canadian Nation Foundation of Canada Inc"
           image="https://placehold.co/400x500"
         />
       </div>

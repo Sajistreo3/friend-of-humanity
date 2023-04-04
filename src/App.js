@@ -1,12 +1,13 @@
 import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Home from './Pages/Home';
-import NavBar from './Components/NavBar';
+import MuiNavBar from './Components/NavBar/MuiNavBar';
 
 function App() {
   return (
     <div className="App">
-      <NavBar />
+      <MuiNavBar />
       <Home />
     </div>
   );

@@ -4,6 +4,7 @@ import Card from "../../Components/Card";
 import Profile from "../../Components/Profile";
 import { db } from "../../Configs/firebase";
 import { collection, getDocs } from "firebase/firestore";
+import Ali from '../../Assets/Extra/ali.jpg'
 
 function Home(props) {
   const [peoples, setPeoples] = useState([]);
@@ -23,7 +24,7 @@ function Home(props) {
         <Profile
           name="Mohammad Ali"
           bio="Chief Advisor and Executif President of African Canadian Nation Foundation of Canada Inc"
-          image="https://placehold.co/400x500"
+          image={Ali}
         />
       </div>
       <div className="card-section">

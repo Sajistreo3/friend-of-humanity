@@ -22,7 +22,7 @@ function Home(props) {
     <div className="Male-section">
       <div className="profile-section">
         <Profile
-          name="Mohammad Ali"
+          name="Rafi Patwary"
           bio="Chief Advisor and Executive President of African Canadian Nation Foundation of Canada Inc"
           image={Ali}
         />

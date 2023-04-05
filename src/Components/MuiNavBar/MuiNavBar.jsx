@@ -14,8 +14,8 @@ import MenuItem from '@mui/material/MenuItem';
 import Logo from '../../Assets/Images/Flag_of_Canada.svg'
 
 
-const pages = ['About']; // page links
-const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
+const pages = []; // page links
+const settings = ['Profile','About'];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);

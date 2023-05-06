@@ -284,7 +284,7 @@ function Home(props) {
       id: 19,
       name: "Sabrina Sobhan (Bowma)",
       description:
-        "Mother of humanity and peace. Friend of democracy and secularism by all means. (Offered food to eleven thousand orphans with the help of her husband, his parents and her brother, Naem Nizam of Daily Bangladesh Protidin.)",
+        "Mother of humanity and peace. Friend of democracy and secularism by all means. (Offered food to eleven thousand orphans with the help of her husband, her parents and her brother, Naem Nizam of Daily Bangladesh Protidin.)",
     },
     {
       id: 20,
@@ -305,7 +305,7 @@ function Home(props) {
       <div className="profile-section">
         <Profile
           name="Mohammad Ali"
-          bio="Chief Advisor and Executive President of African Canadian Nation Foundation of Canada Inc"
+          bio="We are  Canadian Social Worker, for humanity and peace"
           image={Ali}
         />
       </div>

@@ -11,7 +11,7 @@ import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
-import Logo from '../../Assets/Images/Flag_of_Canada.svg'
+import Logo from '../../Assets/Images/foh-logo.png'
 
 
 const pages = []; // page links
@@ -132,7 +132,7 @@ function ResponsiveAppBar() {
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title="Open settings">
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                <Avatar alt="Mohammad Ali" src="/static/images/avatar/2.jpg" />
+                <Avatar alt="Mohammad Ali" src={Logo} />
               </IconButton>
             </Tooltip>
             <Menu

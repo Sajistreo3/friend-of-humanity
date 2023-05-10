@@ -15,7 +15,7 @@ import Logo from '../../Assets/Images/foh-logo.png'
 
 
 const pages = []; // page links
-const settings = ['Profile','About'];
+const settings = ['Symbol of Canadian Identity', 'Profile','About'];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);

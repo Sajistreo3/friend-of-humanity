@@ -304,8 +304,8 @@ function Home(props) {
     <div className="Male-section">
       <div className="profile-section">
         <Profile
-          name="Mohammad Ali"
-          bio="We are  Canadian Social Worker, for humanity and peace"
+          title="Symbol of Canadian Identity"
+          bio="We are Canadian Social Worker, for humanity and peace"
           image={Ali}
         />
       </div>

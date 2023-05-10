@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "./Profile.css";
 
-function Profile({ name, bio, image }) {
+function Profile({ title, bio, image }) {
   const settings = {
     dots: true,
     infinite: true,
@@ -13,13 +13,13 @@ function Profile({ name, bio, image }) {
 
   return (
     <div className="profile">
+      <h3>{title}</h3>
       <Slider className="profile-slider" {...settings}>
         <div>
-          <img src={image} alt={name} />
+          <img src={image} alt={title} />
         </div>
       </Slider>
       <div className="profile-info">
-        <h3>{name}</h3>
         <p>{bio}</p>
       </div>
     </div>

@@ -77,13 +77,13 @@ function Home(props) {
       id: 10,
       name: "Anisul Haque",
       description:
-        "Law Minister of Bangladesh and friend of humanity, peace, democracy and secularism by all means. He became one of the most respected person in Bangladeshi society for drafting the death penalty, by the order of the Prime Minister, Sheikh Hasina, against a rapist and child killer.",
+        "Law Minister of Bangladesh and friend of humanity, peace, democracy and secularism by all means. He became one of the most respected person in Bangladeshi society for drafting the death penalty, by the order of the Prime Minister, Sheikh Hasina, against rapists and child killers.",
     },
     {
       id: 11,
       name: "Mr. Justice Obaidul Hassan",
       description:
-        "In the Supreme Court of Bangladesh. Friend of humanity, peace, democracy and secularism by all means. (Son of great freedom fighter, Dr.Akhlaqul Hossain Ahmed who was a physician, a former Member of Parliament and very close associate of the father of the nation of Bangladesh.)",
+        "In the Supreme Court of Bangladesh. Friend of humanity, peace, democracy and secularism by all means. (Shaheen Bhai, Son of great freedom fighter, Dr.Akhlaqul Hossain Ahmed who was a physician, a former Member of Parliament and very close associate of the father of the nation of Bangladesh.)",
     },
     {
       id: 12,
@@ -107,13 +107,13 @@ function Home(props) {
       id: 15,
       name: "Mustafa Jabbar",
       description:
-        "Veteran journalist, inventor of BIJOY keyboard and co-founder of Digital Bangladesh. Friend of humanity, peace and democracy by all means. (Helped build schools, a college and an orphanage)",
+        "Veteran journalist, inventor of BIJOY keyboard and Helping Hand of Digital Bangladesh. Friend of humanity, peace and democracy by all means. (Helped build schools, colleges and orphanages)",
     },
     {
       id: 16,
       name: "Ahmed Akbar Sobhan",
       description:
-        "Friend of humanity, peace, democracy and secularism by all means. Donated and gifted hospitals, schools, a college and an orphanage, helping hundreds of thousands of people in need. (Most respected person in Bangladeshi trade, commerce, industry, and society)",
+        "Friend of humanity, peace, democracy and secularism by all means. Donated and gifted hospitals, schools, a college and an orphanage, helping hundreds of thousands of people in need. (Most respected person in trade, commerce, industry, and civil society of Bangladesh)",
     },
     {
       id: 17,

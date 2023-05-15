@@ -60,7 +60,7 @@ function ResponsiveAppBar() {
             <img src={Logo} alt="Logo" style={{ height: "32px",marginRight: 20, }} sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
             African Canadian Asian Foundation of Canada Inc.
           </Typography>
-
+          
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
             <IconButton
               size="large"

@@ -284,7 +284,7 @@ function Home(props) {
       id: 19,
       name: "Sabrina Sobhan (Bowma)",
       description:
-        "Mother of humanity and peace. Friend of democracy and secularism by all means. (Offered food to eleven thousand orphans with the help of her husband, her parents and her brother, Naem Nizam of Daily Bangladesh Protidin.)",
+        "Mother of Humanity & Peace. Friend of Democracy and Secularism, by all means. (Offered food to 11,000 orphans with the help of parents-in-law, husband, and brother, Naem Nizam of Daily Bangladesh Protidin).",
     },
     {
       id: 20,
@@ -302,9 +302,10 @@ function Home(props) {
 
   return (
     <div className="Male-section">
+      <h6 style={{textAlign: "left", marginTop: 20, marginLeft: "20%"}}>Symbol of Canadian Identity</h6>
       <div className="profile-section">
         <Profile
-          title="Symbol of Canadian Identity"
+          title=""
           bio="We are Canadian Social Worker, for humanity and peace"
           image={Ali}
         />

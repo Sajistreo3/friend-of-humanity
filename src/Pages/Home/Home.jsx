@@ -53,7 +53,7 @@ function Home(props) {
       id: 6,
       name: "Adama Barrow",
       description:
-        "President of Gambia. Friend of humanity, peace and democracy. (Fighter against Myanmar criminals Janta, for Rohingya refugees)",
+        "President of Gambia, Friend of humanity peace Democracy, Fighter against Myanmar Criminals Janta, For Rohingya Refugees",
     },
     {
       id: 7,
@@ -174,6 +174,12 @@ function Home(props) {
       name: "Martin Griffiths",
       description:
         "UN Chief of humanitarian agency of United Nations Friend of humanity ,Peace , Democracy and secularism,by all means,",
+    },
+    {
+      id: 27,
+      name: "Dr. Abdul Malik",
+      description:
+        "Friend of Humanity, Peace, Democracy and Secularism by all means, Founder of National Heart Foundation of Bangladesh",
     },
   ];
 
@@ -303,6 +309,12 @@ function Home(props) {
       name: "Carmel Sepuloni",
       description:
         "Deputy Prime Minister of New Zealand. Mother of humanity and peace. Friend of democracy and secularism by all means.",
+    },
+    {
+      id: 22,
+      name: "Madam Justice Salma Masood Chowdhury",
+      description:
+        "Mother of humanity and peace,Friend of Democracy and Secularism by all means,( Daughter of Mr.Justice Chowdhury A.T.M.Masud, and Vice President, of National Heart Foundation of Bangladesh)",
     },
   ];
 

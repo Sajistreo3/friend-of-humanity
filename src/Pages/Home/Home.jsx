@@ -71,13 +71,13 @@ function Home(props) {
       id: 9,
       name: "Mr. Justice Hasan Foez Siddique",
       description:
-        "Chief Justice of Bangladesh, friend of humanity, peace, democracy and secularism, by all means. An extraordinary arrangement was made for faster hearing of appeal, against a death penalty, on humanitarian grounds for the first time in history of the Supreme Court of Bangladesh.",
+        "Chief Justice of Bangladesh: Friend of humanity, peace, democracy, and secularism, by all means. An extraordinary arrangement has been made for faster hearing for appeals against the death penalty on humanitarian grounds for the first time in the history of the Supreme Court of Bangladesh.",
     },
     {
       id: 10,
       name: "Anisul Haque",
       description:
-        "Law Minister of Bangladesh and friend of humanity, peace, democracy and secularism by all means. He became one of the most respected person in Bangladeshi society for drafting the death penalty, by the order of the Prime Minister, Sheikh Hasina, against rapists and child killers.",
+        "Law minister of Bangladesh, friend of humanity, peace democracy and secularism by all means, for drafting death penalty, by the order of the Prime Minister, Sheikh Hasina, against the rapist and child killer, Mr. Anisul Haque, became most respected person in Civil Society of Bangladesh.",
     },
     {
       id: 11,
@@ -113,7 +113,7 @@ function Home(props) {
       id: 16,
       name: "Ahmed Akbar Sobhan",
       description:
-        "Friend of humanity, peace, democracy and secularism by all means. Donated and gifted hospitals, schools, a college and an orphanage, helping hundreds of thousands of people in need. (Most respected person in trade, commerce, industry, and civil society of Bangladesh)",
+        "Friend of humanity, peace, democracy and secularism by all means, (Donated & Gifted Hospitals, Schools, College, Orphanage, Helping Hundreds of thousands of people in need) Most respected person in Trade, Commerce, industry, and in the society of Bangladesh",
     },
     {
       id: 17,
@@ -125,19 +125,19 @@ function Home(props) {
       id: 18,
       name: "Shykh Seraj",
       description:
-        "Internationally recognized veteran, journalist and a TV presenter. Friend of humanity, peace, democracy and secularism, by all means.",
+        "Internationally recognized veteran, journalist TV presenter. Friend of humanity, peace, democracy and secularism, by all means.",
     },
     {
       id: 19,
       name: "Hanif Sanket",
       description:
-        "Internationally recognized veteran, journalist and a TV presenter. Friend of humanity, peace and democracy by all means.",
+        "Internationally recognized veteran, journalist TV presenter. Friend of humanity, peace and democracy by all means.",
     },
     {
       id: 20,
       name: "Hasan Ahmed Chowdhury Kiron",
       description:
-        "Chairman of Debate for Democracy Foundation, veteran journalist and a TV presenter. Friend of humanity, peace, democracy and secularism by all means. (Son of great freedom fighter Mr. Maqbul Chowdhury)",
+        "Chairman of Debate for Democracy Foundation, veteran journalist TV presenter. Friend of humanity, peace, democracy and secularism by all means. (Son of great freedom fighter Mr. Maqbul Chowdhury)",
     },
     {
       id: 21,
@@ -168,6 +168,12 @@ function Home(props) {
       name: "Md. Khurshid Alam Khan",
       description:
         "Senior Advocate of Supreme Court of Bangladesh, for anti-corruption case. Friend of humanity, peace, democracy and secularism by all means.",
+    },
+    {
+      id: 26,
+      name: "Martin Griffiths",
+      description:
+        "UN Chief of humanitarian agency of United Nations Friend of humanity ,Peace , Democracy and secularism,by all means,",
     },
   ];
 
@@ -306,7 +312,7 @@ function Home(props) {
       <div className="profile-section">
         <Profile
           title=""
-          bio="We are Canadian Social Worker, for humanity and peace"
+          bio='We are Canadian Social Worker, for humanity and peace.'
           image={Ali}
         />
       </div>

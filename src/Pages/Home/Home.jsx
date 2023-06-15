@@ -181,6 +181,12 @@ function Home(props) {
       description:
         "Friend of Humanity, Peace, Democracy and Secularism by all means, Founder of National Heart Foundation of Bangladesh",
     },
+    {
+      id: 28,
+      name: "Advocate Zunaid Ahmed Palak of Bangladesh",
+      description:
+        "Friend of Humanity, Peace, Democracy and Secularism by all means, Helping hand of digital Bangladesh",
+    },
   ];
 
   const femalePeople = [
@@ -248,7 +254,7 @@ function Home(props) {
       id: 11,
       name: "Nancy Pelosi",
       description:
-        "Former member of the United States Congress. Mother of humanity and peace by all means.",
+        "Former Speaker of the United States Congress. Mother of humanity and peace by all means.",
     },
     {
       id: 12,
@@ -258,9 +264,9 @@ function Home(props) {
     },
     {
       id: 13,
-      name: "Justice Farah Mahbub",
+      name: "Madam Justice Farah Mahbub",
       description:
-        "Mother of humanity, peace, democracy and secularism by all means.",
+        "Mother of humanity, peace, democracy and secularism by all means. (Daughter of great civil right activist senior advocate Mahbubur Rahman).",
     },
     {
       id: 14,
@@ -312,7 +318,7 @@ function Home(props) {
     },
     {
       id: 22,
-      name: "Madam Justice Salma Masood Chowdhury",
+      name: "Madam Justice Salma Masud Chowdhury",
       description:
         "Mother of humanity and peace,Friend of Democracy and Secularism by all means,( Daughter of Mr.Justice Chowdhury A.T.M.Masud, and Vice President, of National Heart Foundation of Bangladesh)",
     },

@@ -57,9 +57,9 @@ function Home(props) {
     },
     {
       id: 7,
-      name: "King Abdullah of Pahang",
+      name: "Mohammed bin Abdulrahman",
       description:
-        "King of Malaysia. Friend of humanity, peace and Democracy by all means.",
+        "Friend of Humanity, Peace, Democracy and Secularism by all means",
     },
     {
       id: 8,
@@ -183,9 +183,63 @@ function Home(props) {
     },
     {
       id: 28,
+      name: "Prof, Dr. A.k. Azad Khan",
+      description:
+        "Friend of humanity, peace and Democracy by all means. President of Diabetic association of Bangladesh, Chairman Board Trustees of Bangladesh University of Health Sciences(BUHS)",
+    },
+    {
+      id: 29,
+      name: "Sajeeb Wazed Joy",
+      description:
+        "Grand Son of Father of the Nation of Bangladesh. Friend of humanity, peace, Democracy and Secularism, by all means.",
+    },
+    {
+      id: 30,
       name: "Advocate Zunaid Ahmed Palak of Bangladesh",
       description:
         "Friend of Humanity, Peace, Democracy and Secularism by all means, Helping hand of digital Bangladesh",
+    },
+    {
+      id: 31,
+      name: "Peter D. Haas",
+      description:
+        "US Ambassador in Bangladesh, all the staff of Us Embassy Friend of humanity, peace and Democracy by all means, (Arranger of Covid Vaccine for tens of millions people of Bangladesh)",
+    },
+    {
+      id: 32,
+      name: "Mustafa Osman",
+      description:
+        "Friend of Humanity, Peace, Democracy and Secularism by all means",
+    },
+    {
+      id: 33,
+      name: "Seraya ali al qahtani",
+      description:
+        "Friend of Humanity, Peace, Democracy and Secularism by all means",
+    },
+    {
+      id: 34,
+      name: "Obaidul Quader",
+      description:
+        "Secretery General, Bangladesh Awami League, Friend of humanity, peace, Democracy and secularism by all means",
+    },
+    {
+      id: 35,
+      name: "Mirza Fokrul Islam",
+      description:
+        "Secretary general ,BNP, Bangladesh Nationalist party, Friend of Humanity, Peace, Democracy and Secularism by all means",
+    },
+    {
+      id: 36,
+      name: "Ghulam Muhammed Quader",
+      description:
+        "Chairperson of Jatiyo Parti, Friend of Humanity, Peace, Democracy and Secularism by all means",
+    },
+    {
+      id: 37,
+      name: "Barrister Andalib Rahman",
+      description:
+        "Chairperson of Jatiyo Parti, Friend of Humanity, Peace, Democracy and Secularism by all means",
     },
   ];
 

@@ -87,7 +87,7 @@ function Home(props) {
     },
     {
       id: 12,
-      name: "Mr. Justice Nazrul Islam Talukdar and Mr. Justice Khizir Hayat",
+      name: "Mr. Justice Nazrul Islam Talukdar",
       description:
         "Friend of humanity, peace, democracy and secularism by all means. (Under the leadership of honourable Chief Justice and Appellate Division, Supreme Court of Bangladesh)",
     },

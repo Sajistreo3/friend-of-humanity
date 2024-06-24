@@ -241,6 +241,11 @@ function Home(props) {
       description:
         "Chairperson of Jatiyo Parti, Friend of Humanity, Peace, Democracy and Secularism by all means",
     },
+    {
+      id: 38,
+      name: 'Saber Hossain Chowdhury',
+      description: "Saber Hossain Chowdhury, MP of Bangladesh and Minister of Environment, Friend of Humanity, Peace, Democracy and Secularism by all means.",
+    },
   ];
 
   const femalePeople = [

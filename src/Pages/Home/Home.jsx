@@ -76,7 +76,7 @@ function Home(props) {
     },
     {
       id: 10,
-      name: "Chef Justice Obaidul Hassan",
+      name: "Chief Justice Obaidul Hassan",
       description:
         "In the Supreme Court of Bangladesh. Friend of humanity, peace, democracy and secularism by all means. (Shaheen Bhai, Son of great freedom fighter, Dr.Akhlaqul Hossain Ahmed who was a physician, a former Member of Parliament and very close associate of the father of the nation of Bangladesh.)",
     },
@@ -380,7 +380,7 @@ function Home(props) {
       id: 23,
       name: "Madam Soraya Martinez Ferrada",
       description:
-        "Member of the Canadian Parliament, Mother of humanity and peace, friend of democracy and secularism by all means",
+        "Honourable Member of the Canadian Parliament, Mother of humanity and peace, friend of democracy and secularism by all means",
     },
   ];
 

@@ -67,122 +67,117 @@ function Home(props) {
       description:
         "Prime Minister of New Zealand. Friend of humanity, peace and democracy by all means.",
     },
+
     {
       id: 9,
-      name: "Mr. Justice Hasan Foez Siddique",
-      description:
-        "Chief Justice of Bangladesh: Friend of humanity, peace, democracy, and secularism, by all means. An extraordinary arrangement has been made for faster hearing for appeals against the death penalty on humanitarian grounds for the first time in the history of the Supreme Court of Bangladesh.",
-    },
-    {
-      id: 10,
       name: "Anisul Haque",
       description:
         "Law minister of Bangladesh, friend of humanity, peace democracy and secularism by all means, for drafting death penalty, by the order of the Prime Minister, Sheikh Hasina, against the rapist and child killer, Mr. Anisul Haque, became most respected person in Civil Society of Bangladesh.",
     },
     {
-      id: 11,
-      name: "Mr. Justice Obaidul Hassan",
+      id: 10,
+      name: "Chef Justice Obaidul Hassan",
       description:
         "In the Supreme Court of Bangladesh. Friend of humanity, peace, democracy and secularism by all means. (Shaheen Bhai, Son of great freedom fighter, Dr.Akhlaqul Hossain Ahmed who was a physician, a former Member of Parliament and very close associate of the father of the nation of Bangladesh.)",
     },
     {
-      id: 12,
+      id: 11,
       name: "Mr. Justice Nazrul Islam Talukdar and Mr. Justice Khizir Hayat",
       description:
         "Friend of humanity, peace, democracy and secularism by all means. (Under the leadership of honourable Chief Justice and Appellate Division, Supreme Court of Bangladesh)",
     },
     {
-      id: 13,
+      id: 12,
       name: "Advocate Manzill Murshid",
       description:
         "President of HRPB, Human Rights and Peace for Bangladesh. Friend of humanity, peace, democracy and secularism by all means. (Son of great freedom fighter Mr. Jobed Ali Mia)",
     },
     {
-      id: 14,
+      id: 13,
       name: "Atikullah Khan Masud",
       description:
         "Great freedom fighter and veteran journalist. Friend of humanity, peace, democracy and secularism by all means until his death.",
     },
     {
-      id: 15,
+      id: 14,
       name: "Mustafa Jabbar",
       description:
         "Veteran journalist, inventor of BIJOY keyboard and Helping Hand of Digital Bangladesh. Friend of humanity, peace and democracy by all means. (Helped build schools, colleges and orphanages)",
     },
     {
-      id: 16,
+      id: 15,
       name: "Ahmed Akbar Sobhan",
       description:
         "Friend of humanity, peace, democracy and secularism by all means, (Donated & Gifted Hospitals, Schools, College, Orphanage, Helping Hundreds of thousands of people in need) Most respected person in Trade, Commerce, industry, and in the society of Bangladesh",
     },
     {
-      id: 17,
+      id: 16,
       name: "Naem Nizam",
       description:
         "Veteran journalist of Bangladesh. Friend of humanity, peace, democracy and secularism by all means.",
     },
     {
-      id: 18,
+      id: 17,
       name: "Shykh Seraj",
       description:
         "Internationally recognized veteran, journalist TV presenter. Friend of humanity, peace, democracy and secularism, by all means.",
     },
     {
-      id: 19,
+      id: 18,
       name: "Hanif Sanket",
       description:
         "Internationally recognized veteran, journalist TV presenter. Friend of humanity, peace and democracy by all means.",
     },
     {
-      id: 20,
+      id: 19,
       name: "Hasan Ahmed Chowdhury Kiron",
       description:
         "Chairman of Debate for Democracy Foundation, veteran journalist TV presenter. Friend of humanity, peace, democracy and secularism by all means. (Son of great freedom fighter Mr. Maqbul Chowdhury)",
     },
     {
-      id: 21,
+      id: 20,
       name: "Mostefa Souag",
       description:
         "Veteran journalist and Director General of Al Jazeera, a world-famous TV channel. Friend of humanity, world peace, democracy and secularism by all means.",
     },
     {
-      id: 22,
+      id: 21,
       name: "Al Anstey",
       description:
         "Chief Executive of Al Jazeera America. Friend of humanity, world peace and democracy by all means.",
     },
     {
-      id: 23,
+      id: 22,
       name: "James Bay",
       description:
         "Veteran Journalist, Diplomatic Editor of Al Jazeera, a world-famous TV channel. Friend of humanity, world peace, democracy and secularism by all means.",
     },
     {
-      id: 24,
+      id: 23,
       name: "Karim A Khan",
       description:
         "Chief prosecutor of International Criminal Court, ICC. Friend of humanity, peace, democracy and secularism, by all means.",
     },
     {
-      id: 25,
+      id: 24,
       name: "Md. Khurshid Alam Khan",
       description:
         "Senior Advocate of Supreme Court of Bangladesh, for anti-corruption case. Friend of humanity, peace, democracy and secularism by all means.",
     },
     {
-      id: 26,
+      id: 25,
       name: "Martin Griffiths",
       description:
         "UN Chief of humanitarian agency of United Nations Friend of humanity ,Peace , Democracy and secularism,by all means,",
     },
     {
-      id: 27,
+      id: 26,
       name: "Dr. Abdul Malik",
       description:
         "Friend of Humanity, Peace, Democracy and Secularism by all means, Founder of National Heart Foundation of Bangladesh",
     },
     {
-      id: 28,
+      id: 27,
       name: "Advocate Zunaid Ahmed Palak of Bangladesh",
       description:
         "Friend of Humanity, Peace, Democracy and Secularism by all means, Helping hand of digital Bangladesh",
@@ -321,6 +316,12 @@ function Home(props) {
       name: "Madam Justice Salma Masud Chowdhury",
       description:
         "Mother of humanity and peace,Friend of Democracy and Secularism by all means,( Daughter of Mr.Justice Chowdhury A.T.M.Masud, and Vice President, of National Heart Foundation of Bangladesh)",
+    },
+    {
+      id: 23,
+      name: "Madam Soraya Martinez Ferrada",
+      description:
+        "Member of the Canadian Parliament, Mother of humanity and peace, friend of democracy and secularism by all means",
     },
   ];
 

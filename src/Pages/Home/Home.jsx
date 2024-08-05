@@ -390,7 +390,7 @@ function Home(props) {
       <div className="profile-section">
         <Profile
           title=""
-          bio='We are Canadian Social Worker, for humanity and peace.'
+          bio='We are Canadian Social Workers, for humanity and peace.'
           image={Ali}
         />
       </div>

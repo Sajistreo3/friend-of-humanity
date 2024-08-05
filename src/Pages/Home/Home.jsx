@@ -208,7 +208,7 @@ function Home(props) {
     },
     {
       id: 33,
-      name: "Seraya ali al qahtani",
+      name: "Seraya Ali Al-Qahtani",
       description:
         "Friend of Humanity, Peace, Democracy and Secularism by all means",
     },
@@ -252,9 +252,9 @@ function Home(props) {
     },
     {
       id: 2,
-      name: "Sophie Trudeau",
+      name: "Madam Soraya Martinez Ferrada",
       description:
-        "Wife of Prime Minister of Canada, Justine Trudeau. Mother of humanity and peace. Friend of femocracy and secularism by all means.",
+        "Honourable Member of the Canadian Parliament, Mother of humanity and peace, friend of democracy and secularism by all means",
     },
     {
       id: 3,
@@ -380,7 +380,7 @@ function Home(props) {
       id: 23,
       name: "Madam Soraya Martinez Ferrada",
       description:
-        "Honourable Member of the Canadian Parliament, Mother of humanity and peace, friend of democracy and secularism by all means",
+        "Wife of Prime Minister of Canada, Justine Trudeau. Mother of humanity and peace. Friend of femocracy and secularism by all means.",
     },
   ];
 
